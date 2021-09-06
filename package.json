@@ -1,0 +1,19 @@
+{
+  "name": "js_projects",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fren_pls_help.js",
+  "dependencies": {
+    "axios": "^0.21.3",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^3.0.0",
+    "web3": "^1.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
